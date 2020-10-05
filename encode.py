@@ -22,3 +22,22 @@ def rmve_1x_vowels( text ):
     return "text w vowels remkced when not outide and with consonants to left and right"
 
 # make it a module  
+
+'''
+import clstrfck as cf
+
+text_file = ... #load text file 
+
+#create new encoder object to manipulate text with
+encoder = cf.text_encoder( )
+
+#assign encoded text without certain vowels to file named encoded_file 
+
+encoded_file = ... #create new empty file and load for writing
+
+#write encoded output from remove_vowels where text_file is original file
+
+ENCDDfle
+
+encoded_file.write ( encoder.remove_vowels( type = "rmve_cvc", text_file )
+'''
